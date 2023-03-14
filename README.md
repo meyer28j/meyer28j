@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Completing my degree**
 
-- 🌱 I’m currently learning **User-Oriented Design, Design Patterns, Figma, Java, Python**
+- 🌱 I’m currently learning **User-Oriented Design, Software Design Patterns, Figma, Java, Python**
 
-- 📫 Reach me at **jacob.meyer144@gmail.com**
+- 📫 You can reach me at **jacob.meyer144@gmail.com**
 
 - ⚡ Fun fact: **I'm an artist too! My big passions are dance and music (I play the drums)**
 
