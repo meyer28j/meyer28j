@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jacob Meyer</h1>
-<h3 align="center">A software systems engineering student at the University of Regina, Canada</h3>
+<h3 align="center">A software systems engineering graduate (with distinction) from the University of Regina, Canada</h3>
 <br>
 
-- 🔭 I’m currently working on **Completing my degree**
+- 🔭 I’m currently working on **Completing my [Portfolio Site](https://meyer28j.github.io)** and configuring my own home server to host it - stay tuned!
 
-- 🌱 I’m currently learning **User-Oriented Design, Software Design Patterns, Figma, Java, Python**
+- 🌱 I’m currently learning **Typescript, Server Configuration & Management, UX Design, and how to read the Arch wiki**
 
 - 📫 You can reach me at **jacob.meyer144@gmail.com**
 
