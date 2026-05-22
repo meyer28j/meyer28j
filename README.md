@@ -1,18 +1,31 @@
-<h1 align="center">Hi 👋, I'm Jacob Meyer</h1>
-<h3 align="center">A software systems engineering graduate (with distinction) from the University of Regina, Canada</h3>
+<h1 align="center">Jacob Meyer, BASc.</h1>
+<h3 align="center">Software Systems Engineering graduate (with distinction) from the University of Regina, Canada</h3>
 <br>
 
-- 🔭 I’m currently working on **Completing my [Portfolio Site](https://meyer28j.github.io)** and configuring my own home server to host it - stay tuned!
+- I’m currently working on self-hosted **Full Stack Web Development** for clients.
 
-- 🌱 I’m currently learning **Typescript, Server Configuration & Management, UX Design, and how to read the Arch wiki**
+- I run my own business providing in-home tech support for seniors in my city.
 
-- 📫 You can reach me at **jacob.meyer144@gmail.com**
+- I've also got some secret business projects cooking in the back room ;)
 
-- ⚡ Fun fact: **I'm an artist too! My big passions are dance and music (I play the drums)**
+- **I'm a musician too!** I'm a prog nerd drummer currently breaking into Dream Theater songs (just polishing Panic Attack) after learning my favorite Rush songs (yes, including Tom Sawyer).
 
-<p align="left">
-</p>
 <br>
 
-<h3 align="left">Languages and Tools I've Used:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">My work at the moment has covered:</h3>
+<br>
+
+- I’m currently working on self-hosted **Full Stack Web Development** for clients.
+- Embedded Systems: C, FreeRTOS, STM32
+- Web Development: PHP, MySQL, SQLite
+- Homelab: Rocky Linux, SSH and network security, Certbot and DNS
+
+<br>
+
+<h2 align="left">What's Here:</h2>
+<p align="left">A collection of tools I build and use and embedded projects from school.</p>
+
+<br>
+<br>
+
+<p>I use Arch btw.</p>
