@@ -15,7 +15,7 @@
 <h3 align="left">My work at the moment has covered:</h3>
 <br>
 
-- I’m currently working on self-hosted **Full Stack Web Development** for clients.
+- Self-hosted **Full Stack Web Development** (you can peek at my current work-in-progress at [dev.jacobmeyer.ca](https://dev.jacobmeyer.ca))
 - Embedded Systems: C, FreeRTOS, STM32
 - Web Development: PHP, MySQL, SQLite
 - Homelab: Rocky Linux, SSH and network security, Certbot and DNS
